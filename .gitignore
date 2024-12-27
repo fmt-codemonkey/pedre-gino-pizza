@@ -128,3 +128,9 @@ dist
 .yarn/build-state.yml
 .yarn/install-state.gz
 .pnp.*
+
+# File generate my macos
+.DS_Store
+
+# Configuration specific to the project
+.vscode/
